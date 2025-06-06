@@ -22,9 +22,8 @@ Here are a few things I’ve been working on:
 | Project | Description | Tools |
 |--------|-------------|-------|
 | 📊 **[MSc Capstone: Coffee Price Forecasting](https://github.com/clarissa-sc/MSc_Capstone_LSTM.git)** | Time series forecasting using SARIMA and LSTM models on ICO coffee data | Python, pandas, matplotlib, statsmodels, Keras |
-| 💼 **Business Operations Dashboard** | Sample dashboard to visualise stock, team shifts, and reconciliation KPIs | SQL, Google Sheets, Tableau |
 | 👷🏼‍♀️ **[Emplyment rates in Construction in EU zone](https://github.com/clarissa-sc/Construction_Employment_EU.git)** |Employment trends in the construction sector in Ireland and other Euro Zone countries, EDA to forecast building permits and workforce needs| Python, pandas, Plotly, JupyterDash |
-| 🛠️ *(in progress)*
+| 🛠️ 
 ---
 
 ### 🛠️ Technical Skills  
