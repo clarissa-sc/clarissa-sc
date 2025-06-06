@@ -23,7 +23,7 @@ Here are a few things I’ve been working on:
 |--------|-------------|-------|
 | 📊 **[MSc Capstone: Coffee Price Forecasting](https://github.com/clarissa-sc/MSc_Capstone_LSTM.git)** | Time series forecasting using SARIMA and LSTM models on ICO coffee data | Python, pandas, matplotlib, statsmodels, Keras |
 | 👷🏼‍♀️ **[Emplyment rates in Construction in EU zone](https://github.com/clarissa-sc/Construction_Employment_EU.git)** |Employment trends in the construction sector in Ireland and other Euro Zone countries, EDA to forecast building permits and workforce needs| Python, pandas, Plotly, JupyterDash |
-| 🛠 **[Sentimental Analysis of 1m+ Tweets](https://github.com/clarissa-sc/Sentimental_Analysis_twitter.git) | Language cleaning/processing techniques to extract sentiment from dataset | NLP, Hadoop, HDFS, Pyspark
+| 🛠 **[Sentimental Analysis of 1m+ Tweets](https://github.com/clarissa-sc/Sentimental_Analysis_twitter.git)** | Language cleaning/processing techniques to extract sentiment from dataset | NLP, Hadoop, HDFS, Pyspark
 ---
 
 ### 🛠️ Technical Skills  
